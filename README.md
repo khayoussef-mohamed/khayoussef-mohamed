@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Mohamed KHAYOUSSEF, living in France and currently studying for an engineering degree in Computer Science at the Sophia Antipolis engineering graduate school (Polytech Nice).
 <!--
 **khayoussef-mohamed/khayoussef-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
