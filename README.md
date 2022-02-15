@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm @MohamedKhayoussef
 
 - 🔭 I’m currently a second year engineering student (Bac +4) in Computer Science [at the Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
--
+
 - 🌱 I’m currently learning ReactJs & basics of cybersecurity 
 
 -  🤔 I’m looking for an apprenticeship contract in cybersecurity from September 2022 for my last year in the engineering cycle.
 
--  📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/khayoussef-mohamed-59767a15b/).
+-  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khayoussef-mohamed-59767a15b/).
 
 <!--
 **khayoussef-mohamed/khayoussef-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
