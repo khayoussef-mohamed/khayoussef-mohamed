@@ -23,7 +23,7 @@
   - ⚡ Fun fact: ...
   -->
 
-##stats
+## <h1 class="center">Stats Github :</h1>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=khayoussef-mohamed&theme=cobalt&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khayoussef-mohamed&theme=cobalt&layout=compact)
