@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently a third year engineering student (Bac +5) in Computer Science [at the Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
-  - 🌱 I’m currently learning ReactJs & basics of cybersecurity 
+  - 🌱 I’m currently learning AngularJs 15 & basics of cybersecurity 
 
   -  🤔 I’m looking for an apprenticeship contract in cybersecurity from September 2022 for my last year in the engineering cycle.
 
