@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm @MohamedKhayoussef
 
-  - 🔭 I’m currently a second year engineering student (Bac +4) in Computer Science [at the Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
+  - 🔭 I’m currently a third year engineering student (Bac +5) in Computer Science [at the Sophia Antipolis engineering graduate school (Polytech Nice)](https://polytech.univ-cotedazur.fr/).
 
   - 🌱 I’m currently learning ReactJs & basics of cybersecurity 
 
